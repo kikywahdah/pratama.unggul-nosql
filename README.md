@@ -23,7 +23,7 @@ Sistem manajemen klinik berbasis MongoDB dan Neo4j untuk mendukung pengelolaan d
 
 1. Clone repository:
     ```bash
-    git clone https://github.com/namakamu/klinik-pratama-unggul-nosql.git
+    git clone https://github.com/pratama.unggul-nosql.git
     ```
 
 2. Pastikan sudah menginstall:
@@ -37,7 +37,7 @@ Sistem manajemen klinik berbasis MongoDB dan Neo4j untuk mendukung pengelolaan d
 
 5. Import script `.cypher` ke Neo4j Desktop atau Neo4j Aura untuk melihat graf relasi.
 
-## 📊 Contoh Query
+ 📊 Contoh Query
 
 - Mencari pasien dengan NIK tertentu
 - Menampilkan rekam medis oleh dokter
@@ -57,7 +57,3 @@ Sistem manajemen klinik berbasis MongoDB dan Neo4j untuk mendukung pengelolaan d
 - Reski Fahreza (222388)
 - Rezky Fadliah Wahda (222413)
 - Fitriah Nabila Putri Tamar (222420)
-
-## 📃 Lisensi
-
-MIT License
