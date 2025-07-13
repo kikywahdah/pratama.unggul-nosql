@@ -1,0 +1,18 @@
+# Sistem Manajemen Klinik - MongoDB & Neo4j
+
+## Deskripsi
+Prototype sistem manajemen klinik dengan backend Node.js, database MongoDB untuk data semi-terstruktur, dan Neo4j untuk relasi data grafis.
+
+## Cara Menjalankan
+1. `npm install`
+2. Jalankan MongoDB lokal (atau koneksi ke MongoDB Atlas)
+3. `node server.js`
+
+## Tools
+- MongoDB Compass
+- Neo4j Desktop
+
+## Query Cypher untuk Neo4j
+Lihat file `neo4j/cypher_queries.cql`
+  
+  
