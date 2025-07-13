@@ -3,14 +3,15 @@
 
 Sistem manajemen klinik berbasis MongoDB dan Neo4j untuk mendukung pengelolaan data pasien, rekam medis, obat, dan transaksi pembayaran.
 
- 📁 Isi Repository
+📦 Kode Sumber
+mongo_prototype.php: Prototype pada sistem klinik.
+Klinik_Pratama_Unggul: Berisi database sistem untuk klinik.
 
-- `laporan/`: Laporan dokumen tugas dalam format `.docx`.
+ 📁 Isi Repository
 - `database/`: Folder berisi data sample JSON untuk MongoDB dan script Cypher untuk Neo4j.
 - `src/`: Script PHP untuk insert dan query data pada MongoDB.
 - `README.md`: Dokumentasi proyek.
-- `LICENSE`: (Opsional) Lisensi open-source seperti MIT.
-
+  
  🧰 Teknologi yang Digunakan
 
 - MongoDB (Document-Oriented)
